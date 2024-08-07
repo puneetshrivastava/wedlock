@@ -1,0 +1,52 @@
+body {
+     padding: 0px;
+     margin: 0px;
+     background: #f2f6e9;
+     font-family: 'Lobster', cursive;
+     background-image: url(images/login-background.jpeg);
+ }
+
+ .navbar {
+     background: #6ab446;
+     font-family: Pacifico;
+ }
+ 
+ .nav-link, .navbar-brand {
+     color: #fff;
+     cursor: pointer;
+ }
+ 
+ .nav-link {
+     margin-right: 1em !important;
+ }
+ 
+ .nav-link:hover {
+     color : #000;   
+ }
+ 
+ .navbar-collapse {
+     justify-content: flex-end;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+ .page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+    font-family: Dancing Script;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
